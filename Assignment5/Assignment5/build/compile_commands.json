@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/e/development/Games101_Note/Games101_Note/Assignment5/Assignment5/build",
+  "command": "/usr/bin/g++    -g   -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -std=gnu++17 -o CMakeFiles/RayTracing.dir/main.cpp.o -c /mnt/e/development/Games101_Note/Games101_Note/Assignment5/Assignment5/main.cpp",
+  "file": "/mnt/e/development/Games101_Note/Games101_Note/Assignment5/Assignment5/main.cpp"
+},
+{
+  "directory": "/mnt/e/development/Games101_Note/Games101_Note/Assignment5/Assignment5/build",
+  "command": "/usr/bin/g++    -g   -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -std=gnu++17 -o CMakeFiles/RayTracing.dir/Scene.cpp.o -c /mnt/e/development/Games101_Note/Games101_Note/Assignment5/Assignment5/Scene.cpp",
+  "file": "/mnt/e/development/Games101_Note/Games101_Note/Assignment5/Assignment5/Scene.cpp"
+},
+{
+  "directory": "/mnt/e/development/Games101_Note/Games101_Note/Assignment5/Assignment5/build",
+  "command": "/usr/bin/g++    -g   -Wall -Wextra -pedantic -Wshadow -Wreturn-type -fsanitize=undefined -std=gnu++17 -o CMakeFiles/RayTracing.dir/Renderer.cpp.o -c /mnt/e/development/Games101_Note/Games101_Note/Assignment5/Assignment5/Renderer.cpp",
+  "file": "/mnt/e/development/Games101_Note/Games101_Note/Assignment5/Assignment5/Renderer.cpp"
+}
+]

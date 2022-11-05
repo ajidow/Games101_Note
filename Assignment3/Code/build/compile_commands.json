@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/build",
+  "command": "/usr/bin/g++   -I/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/./include -isystem /usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/main.cpp",
+  "file": "/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/main.cpp"
+},
+{
+  "directory": "/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/build",
+  "command": "/usr/bin/g++   -I/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/./include -isystem /usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/rasterizer.cpp",
+  "file": "/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/rasterizer.cpp"
+},
+{
+  "directory": "/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/build",
+  "command": "/usr/bin/g++   -I/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/./include -isystem /usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/Triangle.cpp",
+  "file": "/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/Triangle.cpp"
+},
+{
+  "directory": "/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/build",
+  "command": "/usr/bin/g++   -I/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/./include -isystem /usr/local/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Texture.cpp.o -c /mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/Texture.cpp",
+  "file": "/mnt/e/development/Games101_Note/Games101_Note/Assignment3/Code/Texture.cpp"
+}
+]

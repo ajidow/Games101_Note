@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/e/development/Games101_Note/Games101_Note/Assignment4/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.o -c /mnt/e/development/Games101_Note/Games101_Note/Assignment4/main.cpp",
+  "file": "/mnt/e/development/Games101_Note/Games101_Note/Assignment4/main.cpp"
+}
+]
